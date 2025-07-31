@@ -15,7 +15,7 @@ from keep_alive import keep_alive  # ✅ السيرفر الصغير لتشغي�
 TOKEN = '8365261390:AAFazY9054NaMG0wux6-7yAf_nztHXJ_bOc
 '
 ADMIN_ID = 1049380446
-BOT_USERNAME = "@Assiut61framebot"
+BOT_USERNAME = "@Assiut61gradbot"
 
 # ✅ تسجيل الدخول
 logging.basicConfig(level=logging.INFO)
