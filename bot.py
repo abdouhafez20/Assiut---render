@@ -12,7 +12,8 @@ import random
 from keep_alive import keep_alive  # ✅ السيرفر الصغير لتشغيل Replit بدون توقف
 
 # ✅ إعدادات البوت
-TOKEN = '7815578930:AAHpu5e-bjGTRcve80JQ5fbdGKexQRhQsz8'
+TOKEN = '8365261390:AAFazY9054NaMG0wux6-7yAf_nztHXJ_bOc
+'
 ADMIN_ID = 1049380446
 BOT_USERNAME = "@Assiut61framebot"
 
